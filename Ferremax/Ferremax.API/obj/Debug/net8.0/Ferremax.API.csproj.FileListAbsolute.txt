@@ -30,3 +30,6 @@ C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\refint\Fer
 C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.pdb
 C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.genruntimeconfig.cache
 C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\ref\Ferremax.API.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\refint\Ferremax.API.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.pdb
