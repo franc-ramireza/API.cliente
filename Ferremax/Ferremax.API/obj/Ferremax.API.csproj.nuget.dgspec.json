@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cetecom\\Desktop\\FERREMAX\\API.cliente\\Ferremax\\Ferremax.API\\Ferremax.API.csproj": {}
+    "C:\\Users\\fcara\\OneDrive - Fundacion Instituto Profesional Duoc UC\\Escritorio\\API\\API.cliente\\Ferremax\\Ferremax.API\\Ferremax.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cetecom\\Desktop\\FERREMAX\\API.cliente\\Ferremax\\Ferremax.API\\Ferremax.API.csproj": {
+    "C:\\Users\\fcara\\OneDrive - Fundacion Instituto Profesional Duoc UC\\Escritorio\\API\\API.cliente\\Ferremax\\Ferremax.API\\Ferremax.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cetecom\\Desktop\\FERREMAX\\API.cliente\\Ferremax\\Ferremax.API\\Ferremax.API.csproj",
+        "projectUniqueName": "C:\\Users\\fcara\\OneDrive - Fundacion Instituto Profesional Duoc UC\\Escritorio\\API\\API.cliente\\Ferremax\\Ferremax.API\\Ferremax.API.csproj",
         "projectName": "Ferremax.API",
-        "projectPath": "C:\\Users\\Cetecom\\Desktop\\FERREMAX\\API.cliente\\Ferremax\\Ferremax.API\\Ferremax.API.csproj",
-        "packagesPath": "C:\\Users\\Cetecom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cetecom\\Desktop\\FERREMAX\\API.cliente\\Ferremax\\Ferremax.API\\obj\\",
+        "projectPath": "C:\\Users\\fcara\\OneDrive - Fundacion Instituto Profesional Duoc UC\\Escritorio\\API\\API.cliente\\Ferremax\\Ferremax.API\\Ferremax.API.csproj",
+        "packagesPath": "C:\\Users\\fcara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fcara\\OneDrive - Fundacion Instituto Profesional Duoc UC\\Escritorio\\API\\API.cliente\\Ferremax\\Ferremax.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Cetecom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fcara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

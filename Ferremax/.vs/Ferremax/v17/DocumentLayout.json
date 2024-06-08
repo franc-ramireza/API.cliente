@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fcara\\OneDrive - Fundacion Instituto Profesional Duoc UC\\Escritorio\\API\\API.cliente\\Ferremax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1C790A-B3B2-422D-8B7B-8DF1FCB29F0A}|Ferremax.API\\Ferremax.API.csproj|c:\\users\\fcara\\onedrive - fundacion instituto profesional duoc uc\\escritorio\\api\\api.cliente\\ferremax\\ferremax.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1C790A-B3B2-422D-8B7B-8DF1FCB29F0A}|Ferremax.API\\Ferremax.API.csproj|solutionrelative:ferremax.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1C790A-B3B2-422D-8B7B-8DF1FCB29F0A}|Ferremax.API\\Ferremax.API.csproj|c:\\users\\fcara\\onedrive - fundacion instituto profesional duoc uc\\escritorio\\api\\api.cliente\\ferremax\\ferremax.api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1C790A-B3B2-422D-8B7B-8DF1FCB29F0A}|Ferremax.API\\Ferremax.API.csproj|solutionrelative:ferremax.api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\fcara\\OneDrive - Fundacion Instituto Profesional Duoc UC\\Escritorio\\API\\API.cliente\\Ferremax\\Ferremax.API\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Ferremax.API\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\fcara\\OneDrive - Fundacion Instituto Profesional Duoc UC\\Escritorio\\API\\API.cliente\\Ferremax\\Ferremax.API\\Models\\Cliente.cs",
+              "RelativeToolTip": "Ferremax.API\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:25:49.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clientecontroller.cs",
+              "DocumentMoniker": "C:\\Users\\fcara\\OneDrive - Fundacion Instituto Profesional Duoc UC\\Escritorio\\API\\API.cliente\\Ferremax\\Ferremax.API\\Controllers\\Clientecontroller.cs",
+              "RelativeDocumentMoniker": "Ferremax.API\\Controllers\\Clientecontroller.cs",
+              "ToolTip": "C:\\Users\\fcara\\OneDrive - Fundacion Instituto Profesional Duoc UC\\Escritorio\\API\\API.cliente\\Ferremax\\Ferremax.API\\Controllers\\Clientecontroller.cs",
+              "RelativeToolTip": "Ferremax.API\\Controllers\\Clientecontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T04:13:12.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
