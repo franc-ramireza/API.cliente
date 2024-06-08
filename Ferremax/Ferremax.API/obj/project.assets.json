@@ -428,19 +428,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\framirez\\.nuget\\packages\\": {}
+    "C:\\Users\\Cetecom\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\framirez\\source\\repos\\Ferremax\\Ferremax.API\\Ferremax.API.csproj",
+      "projectUniqueName": "C:\\Users\\Cetecom\\Desktop\\FERREMAX\\API.cliente\\Ferremax\\Ferremax.API\\Ferremax.API.csproj",
       "projectName": "Ferremax.API",
-      "projectPath": "C:\\Users\\framirez\\source\\repos\\Ferremax\\Ferremax.API\\Ferremax.API.csproj",
-      "packagesPath": "C:\\Users\\framirez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\framirez\\source\\repos\\Ferremax\\Ferremax.API\\obj\\",
+      "projectPath": "C:\\Users\\Cetecom\\Desktop\\FERREMAX\\API.cliente\\Ferremax\\Ferremax.API\\Ferremax.API.csproj",
+      "packagesPath": "C:\\Users\\Cetecom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cetecom\\Desktop\\FERREMAX\\API.cliente\\Ferremax\\Ferremax.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\framirez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cetecom\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

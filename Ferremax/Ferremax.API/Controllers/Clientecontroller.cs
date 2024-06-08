@@ -7,21 +7,28 @@ namespace Ferremax.API.Controllers
     [Route("Cliente")]
     public class Clientecontroller : ControllerBase
     {
-
-        private static IList<Cliente> cliente = new List<Cliente>();
+        Cliente cliente1 = new Cliente(1, "Ferreteria don gato Lmtada", "122342341", "avenida cardenal caro 2140, Loprado");
+        Cliente cliente2 = new Cliente(2, "Ferreteria pepito el constructor Lmtada", "44444", "avenida vicuña mackenna 4860, macul");
+        private static IList<Cliente> cliente = new List<Cliente>() { new Cliente(2, "Ferreteria pepito el constructor Lmtada", "44444", "avenida vicuña mackenna 4860, macul"), new Cliente(2, "Ferreteria pepito el constructor Lmtada", "44444", "avenida vicuña mackenna 4860, macul") };
+  
 
         [HttpGet]
         [Route("listar")]
         public dynamic ListarCliente()
         {
-            Cliente cliente1 = new Cliente(1, "Ferreteria don gato Lmtada", "122342341", "avenida cardenal caro 2140, Loprado");
-            Cliente cliente2 = new Cliente(2, "Ferreteria pepito el constructor Lmtada", "121231233", "avenida vicuña mackenna 4860, macul");
-
-            cliente.Add(cliente1);
-            cliente.Add(cliente2);
+       
             return cliente;
 
         }
+
+        [HttpGet]
+        [Route("buscar")]
+        public Cliente ListarCliente2(String rut)
+        {
+            Cliente clienteEncontrado = cliente.FirstOrDefault(x => x.rut == rut);
+            return  clienteEncontrado;
+        }
+      
 
         [HttpPost]
         [Route("nuevo")]
@@ -32,7 +39,24 @@ namespace Ferremax.API.Controllers
 
         }
 
+        [HttpDelete]
+        [Route("borra")]
+        public IList<Cliente> borrarCliente([FromBody] String rut)
+        {
 
+            cliente.Remove(cliente.FirstOrDefault(x => x.rut == rut));
+            return cliente;
+        }
+
+
+        [HttpPut]
+        [Route("actualizar")]
+        public Cliente actualizarCliente([FromBody] Cliente clienteActualizado)
+        {
+            Cliente clienteEncontrado = cliente.FirstOrDefault(x => x.rut == clienteActualizado.rut);
+            return cliente[cliente.IndexOf(clienteEncontrado)] = clienteActualizado;
+        }
+        
 
     }
 }
